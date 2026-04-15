@@ -1,0 +1,1 @@
+# django-practice-coding-part-1
